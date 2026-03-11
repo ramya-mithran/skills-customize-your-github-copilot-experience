@@ -114,6 +114,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "statistics-python",
+      "title": "Statistics with Python",
+      "description": "Master statistical analysis and data manipulation using pandas and numpy for exploratory data analysis.",
+      "path": "assignments/statistics-python",
+      "dueDate": "2026-03-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
