@@ -58,6 +58,62 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "rest-api-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create a modern REST API using FastAPI framework with request validation, response models, and proper HTTP status codes.",
+      "path": "assignments/rest-api-fastapi",
+      "dueDate": "2026-03-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "python-text-processing",
+      "title": "Python Text Processing",
+      "description": "Master text processing with strings, file I/O, and text manipulation techniques in Python.",
+      "path": "assignments/python-text-processing",
+      "dueDate": "2026-03-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "data-structures-python",
+      "title": "Data Structures in Python",
+      "description": "Master lists, dictionaries, sets, and tuples through practical exercises and real-world applications.",
+      "path": "assignments/data-structures-python",
+      "dueDate": "2026-03-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "data-visualization-python",
+      "title": "Python Data Visualization",
+      "description": "Master data visualization using matplotlib and plotly to create professional charts and interactive graphs.",
+      "path": "assignments/data-visualization-python",
+      "dueDate": "2026-03-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
